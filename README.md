@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaurinotgauri
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning basics of Data Science and coding
+- 🌱 I’m currently learning Data Science from various resources
 - 💞️ I’m looking to collaborate on projects relevant to Data Science
 - 📫 How to reach me : thakurgauri2312@gmail.com
 
