@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gauri Thakur
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science from various resources
-- 💞️ I’m looking to collaborate on projects relevant to Data Science
+- 👀 I’m interested in Data Science and I’m currently learning it from various resources
+- 💞️ I’m looking to collaborate on projects relevant to Machine Learning
 - 📫 How to reach me : thakurgauri2312@gmail.com
 
 <!---
